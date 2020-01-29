@@ -1,0 +1,43 @@
+body {
+  background-image: url(log6.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+}
+
+.main h1 {
+  color: #faf5e4;
+  font-family: 'Abril Fatface';
+  text-align: center;
+}
+
+.part1 {
+  color: blue;
+}
+
+.part2 {
+  color: green;
+}
+.part3{
+  color: #0fabbc;
+}
+
+.main {
+  margin-top: 10%;
+}
+
+.brand {
+  font-family: 'Abril Fatface';
+  font-weight: bold;
+  color: red;
+}
+
+footer {
+  background-color: black;
+  position: fixed;
+  bottom: 0;
+}
+
+#justpushtobottom {
+  height: 82vh;
+}

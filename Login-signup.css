@@ -1,0 +1,47 @@
+body
+{
+  background-image: url(log.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+}
+.outerbox a
+{
+  color: orange;
+}
+.outerbox
+{
+  position: relative;
+  right: -500px;
+
+}
+.container-login
+{
+    background: rgba(0, 0, 0, 0.5) ;
+    margin-top: 60px;
+    margin-left: 40px;
+    padding: 10%;
+}
+
+h1
+{
+  font-family: 'Anton';
+  color: #f0cf85;
+}
+.outerbox
+{
+  text-align: center;
+}
+
+
+.container-login input
+{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-color: orange;
+    color: rgb(0, 7, 56);
+    background: none;
+}
+
+.container-login input::placeholder { color: #f67280; }

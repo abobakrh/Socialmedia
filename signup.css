@@ -1,0 +1,55 @@
+body{
+  background-image: url(sign.jpg);
+}
+
+.outerbox{
+  position: relative;
+  left: 500px;
+  background: rgba(0, 0, 0, 0.5) ;
+  border: solid;
+  margin-top: 60px;
+  padding-bottom: 10px;
+  width: 35%;
+  height: auto;
+  text-align: center;
+}
+.outerbox h1{
+  font-family: 'Uncial Antiqua';
+}
+ input[type=text],input[type=password],input[type=Date],input[type=file]{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom-color: #f67280;
+  color: white;
+  background: none;
+
+}
+label{
+  padding-right: 15px;
+}
+
+.outerbox h1{
+  text-align: center;
+}
+.imgg{
+  display: inline;
+  width: 150px;
+}
+table.mytable{
+border-collapse:separate;
+border-spacing: 12px;
+margin-left: 60px;
+}
+td{
+width: 150px;
+text-align: center;
+padding-bottom: 50px;
+}
+button{
+  margin-top: 10px;
+}
+.brand{
+  font-family: 'Abril Fatface';
+  font-weight: bold;
+}
